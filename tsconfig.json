@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "bin",
+    "rootDir": "src",
+    "jsx": "react",
+    "moduleResolution": "node"
+  },
+  "files": [
+    "src/js/index.tsx",
+    "typings/main.d.ts"
+  ]
+}

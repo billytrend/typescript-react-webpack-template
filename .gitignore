@@ -1,3 +1,6 @@
+.idea
+typings
+
 # Logs
 logs
 *.log
