@@ -9,7 +9,6 @@
     "moduleResolution": "node"
   },
   "files": [
-    "src/js/index.tsx",
-    "typings/main.d.ts"
+    "src/js/index.tsx"
   ]
 }

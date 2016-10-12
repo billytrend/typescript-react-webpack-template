@@ -6,7 +6,7 @@ import {MapStateToProps, MapDispatchToPropsFunction} from "react-redux";
 
 export interface ItemProps {
     content?: string;
-    clicker?: (e: Event) => void;
+    clicker?;
 }
 
 const mapStateToProps: MapStateToProps<any, ItemProps> = function(state, ownProps): ItemProps {
